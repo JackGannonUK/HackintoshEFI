@@ -16,14 +16,14 @@ Notable changes made to the EFI to successfully boot macOS Ventura:
 - AdviseFeatures = True
 - ReleaseUsbOwnership = True
 
-*In addition of updated opencore, kexts and drivers.
+*In addition of updated Opencore, Kexts and Drivers.
 
 ## Screenshots
 
-!(/assets/lightvsdark.png)
-![assets/centerstage.png]
-![assets/system.png]
-![assets/weather.png]
-![assets/clock.png]
-![assets/light.png]
-![assets/dark.png]
+<img align="center" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/lightvsdark.png">
+<img align="center" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/centerstage.png">
+<img align="center" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/system.png">
+<img align="center" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/weather.png">
+<img align="center" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/clock.png">
+<img align="center" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/light.png">
+<img align="center" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/dark.png">
