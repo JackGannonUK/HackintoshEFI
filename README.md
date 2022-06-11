@@ -1,6 +1,6 @@
 ## <p align="center">MSI Z370 Gaming M5</p>
 
-<img align="right" width="317" height="419" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/about-this-mac.png">
+<img align="right" width="287" height="419" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/about-this-mac.png">
 
 ## About
 This setup contains what is needed. Nothing more, it is not touched by bloat / any clover patches - it is based upon the principles of minimalism and efficiency. This EFI is contemporized consequently to the current prerequisites of the latest macOS versions. All kexts, drivers and tools have been handpicked for my system - allowing for higher optimizations to my workflow and more.
