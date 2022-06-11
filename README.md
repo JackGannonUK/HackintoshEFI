@@ -25,5 +25,3 @@ Notable changes made to the EFI to successfully boot macOS Ventura:
 <img align="center" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/system.png">
 <img align="center" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/weather.png">
 <img align="center" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/clock.png">
-<img align="center" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/light.png">
-<img align="center" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/dark.png">
