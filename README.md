@@ -16,7 +16,7 @@ Notable changes made to the EFI to successfully boot macOS Ventura:
 - AdviseFeatures = True
 - ReleaseUsbOwnership = True
 
-*In addition of updated Opencore, Kexts and Drivers.
+*In addition with updated Opencore, Kexts and Drivers.
 
 ## Screenshots
 
@@ -25,3 +25,6 @@ Notable changes made to the EFI to successfully boot macOS Ventura:
 <img align="center" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/system.png">
 <img align="center" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/weather.png">
 <img align="center" src="https://github.com/JackGannonUK/HackintoshEFI/blob/main/assets/clock.png">
+
+## Additional Notes
+Full list of my current computer specifications can be found [here](https://pcpartpicker.com/list/Vb3Pfv)
