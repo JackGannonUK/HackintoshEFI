@@ -12,9 +12,9 @@ Currently, this EFI is built for [macOS Ventura (Beta 1)](https://www.apple.com/
 To successfully boot macOS Ventura on a 300-series chipset, I had to update to the latest Opencore Developer Build to enable the quirk `AvoidRuntimeDefrag` - without this quirk, macOS Recovery would hurl an error describing how I needed to [contemporize my firmware](https://forums.macrumors.com/threads/monterey-install-error.2319354/).
 
 Notable changes made to the EFI to successfully boot macOS Ventura:
-    -   AvoidRuntimeDefrag = True
-    -   AdviseFeatures = True
-    -   ReleaseUsbOwnership = True
+- AvoidRuntimeDefrag = True
+- AdviseFeatures = True
+- ReleaseUsbOwnership = True
 
 *In addition of updated opencore, kexts and drivers.
 
