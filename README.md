@@ -20,7 +20,7 @@ Notable changes made to the EFI to successfully boot macOS Ventura:
 
 ## Screenshots
 
-!(Screenshot #1)[/assets/lightvsdark.png]
+!(/assets/lightvsdark.png)
 ![assets/centerstage.png]
 ![assets/system.png]
 ![assets/weather.png]
