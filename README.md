@@ -20,10 +20,10 @@ Notable changes made to the EFI to successfully boot macOS Ventura:
 
 ## Screenshots
 
-[[assets/lightvsdark.png|Light VS Dark Mode]]
-[[assets/centerstage.png|Center Stage Demo]]
-[[assets/system.png|Refreshed System Settings]]
-[[assets/weather.png|New Weather App]]
-[[assets/clock.png|New Clock App]]
-[[assets/light.png|Light Mode]]
-[[assets/dark.png|Dark Mode]]
+![assets/lightvsdark.png]
+![assets/centerstage.png]
+![assets/system.png]
+![assets/weather.png]
+![assets/clock.png]
+![assets/light.png]
+![assets/dark.png]
